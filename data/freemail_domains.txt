@@ -1,0 +1,14 @@
+# Common freemail providers
+gmail.com
+googlemail.com
+outlook.com
+hotmail.com
+live.com
+yahoo.com
+yahoo.co.uk
+yahoo.de
+gmx.de
+web.de
+icloud.com
+proton.me
+zoho.com

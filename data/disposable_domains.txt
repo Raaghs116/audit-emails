@@ -1,0 +1,7 @@
+# Example disposable / temporary email providers (extend this list)
+mailinator.com
+10minutemail.com
+guerrillamail.com
+trashmail.com
+tempmail.com
+yopmail.com

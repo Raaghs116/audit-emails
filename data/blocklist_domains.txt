@@ -1,0 +1,3 @@
+# Custom blocklisted domains with very high bounce/spam issues.
+# Put real domains here based on your ESP feedback, bounce logs, etc.
+example-bad-domain.com
